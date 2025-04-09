@@ -14,6 +14,9 @@ import profilePic12 from '../../img/profile12.jpg';
 import profilePic13 from '../../img/profile13.jpeg';
 import profilePic14 from '../../img/profile14.jpg';
 import profilePic15 from '../../img/profile15.jpeg';
+import profilePic15 from '../../img/profile16.jpg';
+import profilePic15 from '../../img/profile17.jpg';
+import profilePic15 from '../../img/profile18.jpg';
 import { Pagination } from 'swiper';
 import 'swiper/css/pagination';
 import 'swiper/css';
@@ -98,6 +101,24 @@ function Testimonials() {
       review:
         "He Is Rajan!.",
       name: 'ER. Rajan Raura! He Is Engineering Student',
+    },
+    {
+      img: profilePic16,
+      review:
+        "He Is Pawan!.",
+      name: 'Syber Security Expert. Pawan Kumawat! He Is Syber Security Expert',
+    },
+    {
+      img: profilePic17,
+      review:
+        "He Is Ranjit!.",
+      name: 'Dr. Ranjit Sahani! He Is MBBS Student',
+    }, 
+        {
+      img: profilePic18,
+      review:
+        "He Is Pradip!.",
+      name: 'CA. Pradip Sahani! He Is CA',
     },
   ];
   return (
