@@ -114,7 +114,7 @@ function Testimonials() {
         "He Is Ranjit!.",
       name: 'Dr. Ranjit Sahani! He Is MBBS Student',
     }, 
-        {
+    {
       img: profilePic18,
       review:
         "He Is Pradip!.",
