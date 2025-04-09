@@ -4,7 +4,7 @@ import HeartEmoji from '../../img/heartemoji.png';
 import Glasses from '../../img/glasses.png';
 import Humble from '../../img/humble.png';
 import Card from '../Card/Card';
-import Resume from './resume.pdf';
+import Resume from './KriPawan.jpg';
 import { themeContext } from '../../Context';
 import { useContext } from 'react';
 import { motion } from 'framer-motion';
@@ -29,7 +29,7 @@ const Services = () => {
           Software Development
         </spane>
         <a href={Resume} download>
-          <button className="button s-button">Download CV</button>
+          <button className="button s-button">Click Me</button>
         </a>
         <div className="blur s-blur1" style={{ background: '#ABF1FF94' }}></div>
       </div>
