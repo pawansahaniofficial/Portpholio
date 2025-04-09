@@ -124,9 +124,9 @@ function Testimonials() {
   return (
     <div className="t-wrapper" id="Testimonials">
       <div className="t-heading">
-        <span>Clients always get </span>
-        <span>Exceptional Work </span>
-        <span>From me...</span>
+        <span>My All </span>
+        <span>Lovely </span>
+        <span>Friends...</span>
         <div
           className="blur t-blur1"
           style={{ background: 'var(--purple)' }}
