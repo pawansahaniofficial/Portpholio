@@ -107,7 +107,7 @@ function Testimonials() {
     {
       img: profilePic16,
       review:
-        "He Is Pawan!.",
+        "He Is Pawan! My Best Friend From India.",
       name: 'Cyber Security Expert. Pawan Kumawat! He Is Cyber Security Expert',
     },
     {
