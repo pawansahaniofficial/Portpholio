@@ -108,7 +108,7 @@ function Testimonials() {
       img: profilePic16,
       review:
         "He Is Pawan!.",
-      name: 'Syber Security Expert. Pawan Kumawat! He Is Syber Security Expert',
+      name: 'Cyber Security Expert. Pawan Kumawat! He Is Cyber Security Expert',
     },
     {
       img: profilePic17,
