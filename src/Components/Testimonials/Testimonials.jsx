@@ -107,7 +107,7 @@ function Testimonials() {
     {
       img: profilePic16,
       review:
-        "He Is Pawan! My Best Friend From India Aspiring Cyber Security professional with deep interest in Ethical Hacking, Network Security, and Cyber Defense. Continuously learning and exploring vulnerabilities, secure coding, and digital risk mitigation. Driven by a mission to make cyberspace safer and more resilient..",
+        "He Is Pawan! My Best Friend From India Aspiring Cyber Security professional with deep interest in Ethical Hacking, Network Security, and Cyber Defense. Continuously learning and exploring vulnerabilities, secure coding, and digital risk mitigation.",
       name: 'Cyber Security Expert. Pawan Kumawat! He Is Cyber Security Expert',
     },
     {
