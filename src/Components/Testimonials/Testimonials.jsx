@@ -30,7 +30,7 @@ function Testimonials() {
       img: profilePic11,
       review:
         'She Is Kripa!.',
-      name: 'GN. Kripa Tamang Lo! She Is General Student',
+      name: ' Kripa Tamang Lo!',
     },
     {
       img: profilePic1,
