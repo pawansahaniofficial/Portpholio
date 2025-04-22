@@ -19,6 +19,7 @@ import profilePic17 from '../../img/profile17.jpg';
 import profilePic18 from '../../img/profile18.jpg';
 import profilePic19 from '../../img/profile19.jpeg';
 import profilePic20 from '../../img/profile20.jpeg';
+import profilePic090 from '../../img/profile090.jpeg';
 import { Pagination } from 'swiper';
 import 'swiper/css/pagination';
 import 'swiper/css';
@@ -133,6 +134,12 @@ function Testimonials() {
       review:
         "He Is Bishal!.",
       name: 'Er. Bishal Mahato Tharu! He Is Engineering Student',
+    },
+     {
+      img: profilePic090,
+      review:
+        "He Is Dipak! My Friend.",
+      name: '. Dipak Shah',
     },
   ];
   return (
