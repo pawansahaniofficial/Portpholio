@@ -138,8 +138,8 @@ function Testimonials() {
      {
       img: profilePic090,
       review:
-        "He Is Dipak! My Friend.",
-      name: '. Dipak Shah',
+        "He Is Dinesh! My Friend.",
+      name: '. Dinesh Shah',
     },
   ];
   return (
