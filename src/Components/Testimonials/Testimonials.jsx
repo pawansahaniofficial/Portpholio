@@ -20,7 +20,7 @@ import profilePic18 from '../../img/profile18.jpg';
 import profilePic19 from '../../img/profile19.jpeg';
 import profilePic20 from '../../img/profile20.jpeg';
 import profilePic090 from '../../img/profile090.jpeg';
-import profilePic092 from '../../img/profile92.jpg';
+import profilePic094 from '../../img/profile92.jpg';
 import { Pagination } from 'swiper';
 import 'swiper/css/pagination';
 import 'swiper/css';
@@ -125,7 +125,7 @@ function Testimonials() {
       name: 'CA. Pradip Sahani! He Is CA',
     },
     {
-      img: profilePic92,
+      img: profilePic094,
       review:
         "She Is Aarti!.",
       name: 'BBA. Aarti Sahani! She Is Bachelor Of Business Admintration',
