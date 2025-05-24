@@ -22,11 +22,11 @@ function Intro() {
     <div className="intro">
       <div className="i-left">
         <div className="i-name">
-          <span style={{ color: darkMode ? 'white' : '' }}>Hy! I Am</span>
-          <span>Pawan Sahani!</span>
+          <span style={{ color: darkMode ? 'white' : '' }}>Hy👋! I Am</span>
+          <span>Pawan Sahani 😎!</span>
           <span>
             Hey🖐  Kaise hai Aap!
-            I Am PawAn MERN! Stack Developer
+            I Am PawAn😘 MERN! Stack Developer
           </span>
         </div>
         <a href="https://www.instagram.com/developer_pawan093/?hl=en">
