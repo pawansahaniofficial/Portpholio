@@ -26,7 +26,7 @@ function Intro() {
           <span>Pawan Sahani😘!</span>
           <span>
             Hey🖐  Kaise hai Aap!
-            I Am PawAn😘 MERN! Stack Developer
+            I Am PawAn😘 MERN! Stack Developer🧑‍💻 With High Level Of Exeperience 🧠 In Web Designing & Web Development 🧑‍💻
           </span>
         </div>
         <a href="https://www.instagram.com/developer_pawan093/?hl=en">
