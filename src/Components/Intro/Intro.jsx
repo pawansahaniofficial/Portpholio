@@ -22,9 +22,8 @@ function Intro() {
     <div className="intro">
       <div className="i-left">
         <div className="i-name">
-          <span style={{ color: darkMode ? 'white' : '' }}>Hy👋! 
-            I Am</span>
-          <span>Pawan Sahani!</span>
+          <span style={{ color: darkMode ? 'white' : '' }}>Hy👋! I Am</span>
+          <span>Pawan Sahani😘!</span>
           <span>
             Hey🖐  Kaise hai Aap!
             I Am PawAn😘 MERN! Stack Developer
