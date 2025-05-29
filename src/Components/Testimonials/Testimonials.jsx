@@ -19,7 +19,6 @@ import profilePic17 from '../../img/profile17.jpg';
 import profilePic18 from '../../img/profile18.jpg';
 import profilePic19 from '../../img/profile19.jpeg';
 import profilePic20 from '../../img/profile20.jpeg';
-import profilePic090 from '../../img/profile090.jpeg';
 import profilePic094 from '../../img/profile92.jpg';
 import { Pagination } from 'swiper';
 import 'swiper/css/pagination';
@@ -142,19 +141,13 @@ function Testimonials() {
         "He Is Bishal!.",
       name: 'Er. Bishal Mahato Tharu! He Is Engineering Student',
     },
-     {
-      img: profilePic090,
-      review:
-        "He Is Dinesh! My Friend.",
-      name: '. Dinesh Shah',
-    },
   ];
   return (
     <div className="t-wrapper" id="Testimonials">
       <div className="t-heading">
         <span>My All </span>
-        <span>Lovely </span>
-        <span>Friends...</span>
+        <span>Lovely 💝</span>
+        <span>Friends🧑‍🤝‍🧑...</span>
         <div
           className="blur t-blur1"
           style={{ background: 'var(--purple)' }}
