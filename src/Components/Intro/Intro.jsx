@@ -36,7 +36,7 @@ function Intro() {
           <a href="https://github.com/pawansahani09/">
             <img src={Github} alt="github" />
           </a>
-          <a href="https://www.linkedin.com/in/developer-pawan-0892812a0?/">
+          <a href="www.linkedin.com/in/sahani-pawan">
             <img src={LinkedIn} alt="linkedin" />
           </a>
           <a href="https://www.instagram.com/developer_pawan093/?hl=en">
