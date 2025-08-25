@@ -30,7 +30,7 @@ function Intro() {
           </span>
         </div>
         <a href="https://www.instagram.com/developer_pawan093/?hl=en">
-        <button className="button i-button">Hit Me</button>
+        <button className="button i-button">👉Hire Me👈</button>
           </a>
         <div className="i-icons">
           <a href="https://github.com/pawansahani09/">
