@@ -30,7 +30,7 @@ const Works = () => {
           of working with.
           <br />
         </spane>
-        <a href="https://www.linkedin.com/in/developer-pawan-0892812a0?/">
+        <a href="https://www.linkedin.com/in/sahani-pawan?">
         <button className="button s-button">Hit Here</button>
         </a>
         <div className="blur s-blur1" style={{ background: '#ABF1FF94' }}></div>
