@@ -15,7 +15,7 @@ function Footer() {
           <a href="https://www.instagram.com/developer_pawan093/?hl=en">
             <Insta color="white" size="3rem" />
           </a>
-          <a href="https://github.com/pawansahani09">
+          <a href="https://github.com/pawansahaniofficial">
             <Github color="white" size="3rem" />
           </a>
           <a href="https://www.facebook.com/developerpawan093">
