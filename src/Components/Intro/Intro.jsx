@@ -33,7 +33,7 @@ function Intro() {
         <button className="button i-button">Hire Me</button>
           </a>
         <div className="i-icons">
-          <a href="https://github.com/pawansahani09/">
+          <a href="https://github.com/pawansahaniofficial/">
             <img src={Github} alt="github" />
           </a>
           <a href="https://www.linkedin.com/in/sahani-pawan">
