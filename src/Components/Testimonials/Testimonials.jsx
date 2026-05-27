@@ -9,7 +9,6 @@ import profilePic5 from '../../img/profile5.jpeg';
 import profilePic8 from '../../img/profile8.jpg';
 import profilePic9 from '../../img/profile9.jpg';
 import profilePic10 from '../../img/profile10.jpg';
-import profilePic11 from '../../img/profile11.jpg';
 import profilePic12 from '../../img/profile12.jpg';
 import profilePic13 from '../../img/profile13.jpeg';
 import profilePic14 from '../../img/profile14.jpg';
@@ -27,12 +26,6 @@ import SwiperCore, { Autoplay } from 'swiper';
 function Testimonials() {
   SwiperCore.use([Autoplay]);
   const clients = [
-    {
-      img: profilePic11,
-      review:
-        'She Is Kripa!.',
-      name: ' Kripa Tamang Lo!',
-    },
     {
       img: profilePic1,
       review:
